@@ -5,14 +5,10 @@
  */
 package animal;
 
-public class Dog extends Animal {
-
-    private String name;
-    private int age;
-
-    @Override
-    public void say() {
-        System.out.println("Gau Gau");
-    }
-
+/**
+ *
+ * @author tuan.pham22
+ */
+public class Cat {
+    
 }
